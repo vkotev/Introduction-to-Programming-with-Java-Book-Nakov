@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
 /**
- * Created by vkotev on 12/18/2016.
+ * Created by vkotev on 18.12.2016
+ *
  * Напишете програма, която чете от конзолата радиуса "r" на кръг и отпечатва неговия периметър и обиколка.
+ *
  */
 public class _04_02_ConsoleInputRadius {
     public static void main(String[] args) {

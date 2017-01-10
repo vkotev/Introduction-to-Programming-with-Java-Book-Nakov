@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
 /**
- * Created by vkotev on 12/18/2016.
+ * Created by vkotev on 18.12.2016
+ *
  * Напишете програма, която чете пет числа и отпечатва тяхната сума.
+ *
  */
 public class _04_06_ConsoleInputSum5Numbers {
     public static void main(String[] args) {

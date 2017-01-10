@@ -1,9 +1,11 @@
 import java.util.Scanner;
 
 /**
- * Created by vkotev on 12/18/2016.
+ * Created by vkotev on 18.12.2016
+ *
  * Напишете програма, която чете от конзолата две цели числа и отпечатва по-голямото от тях.
  * Реализирайте програмата без използването на сравнение. Забележка: задачата изисква малко да помислите!
+ *
  */
 public class _04_05_ConsoleInputBiggerNumber {
     public static void main(String[] args) {

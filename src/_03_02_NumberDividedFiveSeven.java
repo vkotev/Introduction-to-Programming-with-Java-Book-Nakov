@@ -1,6 +1,8 @@
 /**
- * Created by vkotev on 23.11.2016 г..
+ * Created by vkotev on 23.11.2016
+ *
  * Напишете булев израз, който да проверява дали дадено цяло число се дели на 5 и на 7 без остатък.
+ *
  */
 public class _03_02_NumberDividedFiveSeven {
     public static void main(String[] args) {

@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
 /**
- * Created by vkotev on 12/10/2016.
+ * Created by vkotev on 10.12.2016
+ *
  * Напишете програма, която проверява дали дадено число n (n < 100) е просто.
+ *
  */
 public class _03_13_PrimeNumber {
     public static void main(String[] args) {

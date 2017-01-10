@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
 /**
- * Created by vkotev on 12/18/2016.
+ * Created by vkotev on 18.12.2016
+ *
  * Напишете програма, която чете от конзолата три числа от тип int и отпечатва тяхната сума.
+ *
  */
 public class _04_01_ConsoleInputSum {
     public static void main(String[] args) {

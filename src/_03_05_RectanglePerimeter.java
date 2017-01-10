@@ -3,8 +3,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by vkotev on 23.11.2016 г..
+ * Created by vkotev on 23.11.2016
+ *
  * Напишете програма, която за подадени дължина и височина на правоъгълник, изкарват на конзолата неговият периметър и лице.
+ *
  */
 public class _03_05_RectanglePerimeter {
     public static void main(String[] args) throws IOException {

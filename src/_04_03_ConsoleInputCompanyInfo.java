@@ -1,10 +1,12 @@
 import java.util.Scanner;
 
 /**
- * Created by vkotev on 12/18/2016.
+ * Created by vkotev on 18.12.2016
+ *
  * Дадена фирма има име, адрес, телефонен номер, факс номер, уеб сайт и мениджър.
  * Мениджърът има име, фамилия и телефонен номер.
  * Напишете програма, която чете информацията за компанията и нейния мениджър и я отпечатва след това на конзолата.
+ *
  */
 public class _04_03_ConsoleInputCompanyInfo {
     public static void main(String[] args) {

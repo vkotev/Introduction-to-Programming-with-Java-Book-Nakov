@@ -3,8 +3,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by vkotev on 23.11.2016 г..
+ * Created by vkotev on 23.11.2016
+ *
  * Напишете израз, който изчислява площта на трапец по дадени a, b и h.
+ *
  */
 public class _03_06_TrapeziumArea {
     public static void main(String[] args) throws IOException {

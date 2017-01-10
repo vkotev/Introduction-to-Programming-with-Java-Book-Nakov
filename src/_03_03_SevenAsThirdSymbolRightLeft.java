@@ -1,6 +1,8 @@
 /**
- * Created by vkotev on 23.11.2016 г..
+ * Created by vkotev on 23.11.2016
+ *
  * Напишете израз, който да проверява дали дадено цяло число съдържа 7 за трета цифра (отдясно на ляво).
+ *
  */
 public class _03_03_SevenAsThirdSymbolRightLeft {
     public static void main(String[] args) {

@@ -1,6 +1,8 @@
 /**
- * Created by vkotev on 23.11.2016 г..
+ * Created by vkotev on 23.11.2016
+ *
  * Напишете израз, който да проверява дали третия бит на дадено число е 1 или 0.
+ *
  */
 public class _03_04_ThirdBitCheck {
     public static void main(String[] args) {
